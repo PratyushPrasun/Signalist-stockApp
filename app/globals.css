@@ -173,13 +173,13 @@
     @apply w-full max-lg:border-t max-lg:border-gray-600 lg:w-[55%] lg:h-screen bg-gray-800 px-6 py-4 md:p-6 lg:py-12 lg:px-18 flex flex-col justify-start;
   }
   .auth-blockquote {
-    @apply text-sm md:text-xl lg:text-2xl font-medium text-gray-400 mb-1 md:mb-6 lg:mb-8;
+    @apply text-sm md:text-lg lg:text-lg font-medium text-gray-400 mb-0 md:mb-5 lg:mb-5;
   }
   .auth-testimonial-author {
     @apply text-xs md:text-lg font-bold text-gray-400 not-italic;
   }
   .auth-dashboard-preview {
-    @apply border-6 border-gray-800 left-0 hidden w-[1024px] h-auto max-w-none lg:block rounded-xl shadow-2xl;
+    @apply border-2 border-gray-800 left-0 hidden w-170 h-auto max-w-none lg:block rounded-xl shadow-xl;
   }
   .form-title {
     @apply text-4xl font-bold text-gray-400 mb-10;
