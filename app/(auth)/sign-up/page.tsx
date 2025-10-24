@@ -95,7 +95,7 @@ const SignUp = () => {
         </Button>
         <FooterLink
         text="Already have an account?"
-        linkText="Sigh In "
+        linkText="Sign In"
         href="/sign-in"
         />
       </form>
